@@ -4,13 +4,15 @@
 <h3 align="center">A passionate frontend developer living in Japan</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently in vocational school in Kanazawa, Ishikawa](IIP)<br><br>
-- 🌱 I’m currently learning/practicing **React, PHP, SQL, etc**<br><br>
+- 🔭 Currently in vocational school in Kanazawa, Ishikawa]<br><br>
+- 👨‍👩‍👦 I am married with two kids and a pet rabbit <br><br>
+- 🧠 I have learned **JS, CSS, HTML, ETC** (see below)
+- 🌱 Learning/practicing/improving **React, PHP, SQL, ETC**<br><br>
 - 🤝 I’m always looking to improve **my coding skills**<br><br>
-- 👨‍💻 All of my projects are available at [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
-- 📫 How to reach me **brandoncodingman@gmail.com**<br><br>
+- 👨‍💻 My porfolio can be seen here: [https://brandoncodingman.github.io/portfolio-projects/portfoliojp/]<br><br>
+- 📫 How to reach me @ **brandoncodingman@gmail.com**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandonshapiro16/]<br><br>
-- ⚡ Hobbies **watching MMA, tennis, astronomy, anime, and playing with my kids**
+- ⚡ Hobbies include; watching MMA, tennis, astronomy, anime, and playing with my kids
 
 
 ## 🌐 Socials:
