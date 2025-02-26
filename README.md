@@ -1,7 +1,7 @@
 **Please visit my main github 'brandoncodingman @ https://github.com/brandoncodingman'**
 
 <h1 align="center">Hi 👋, I'm Brandon Shapiro</h1>
-<h3 align="center">A passionate frontend developer living in Japan</h3>
+<h3 align="center">A kind, hardworking frontend developer living in Japan</h3>
 
 # 💫 About Me:
 - 🔭 Currently in vocational school in Kanazawa, Ishikawa]<br><br>
